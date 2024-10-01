@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MatheusC-py/MatheusC-py/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/MatheusC-py/MatheusC-py/blob/main/snake.yml" alt="Snake animation" />
 
 ###
